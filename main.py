@@ -7,7 +7,4 @@ print("New student can be registered")
 print("Login Module Loaded")
 print("User can login with username and password")
 
-print("Main branch update")
-
-
 
